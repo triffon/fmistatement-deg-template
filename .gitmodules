@@ -1,0 +1,3 @@
+[submodule "fmi-templates"]
+	path = fmi-templates
+	url = git@github.com:triffon/fmi-templates.git
